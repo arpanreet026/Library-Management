@@ -1,4 +1,5 @@
-Library-Management-System
+#Library-Management-System
+---------------------------------------------------------------------------------------------------------
 A Library Management System software using Java Swing and MySql database.
 Creating a Library Management System (LMS) in Java using Swing, a graphical user interface (GUI) library,
 can greatly improve the efficiency and organization of library operations. Swing provides a set of powerful
@@ -14,4 +15,10 @@ As we embark on this journey, we'll design a modern and efficient LMS that helps
 ensuring that library resources are readily available, efficiently managed, and accessible to a wide range of users. 
 This system will not only enhance the library's operations but also improve the overall experience for library staff and patrons alike.
 
-❖ IDE Used in the Project : Apache NetBeans ❖ Database (JDBC) Used in the Project : MySQL PHPMyAdmin ❖ Graphical User Interface in the Project : Java Swings
+------------------------------------------------------------------------------------------------------------------------------------
+❖ IDE Used in the Project :Apache NetBeans
+--
+❖ Database (JDBC) Used in the Project : MySQL PHPMyAdmin 
+--
+❖ Graphical User Interface in the Project : Java Swings
+--
